@@ -1,0 +1,135 @@
+Executing the command: jupyter notebook
+[I 14:32:41.441 NotebookApp](B[m Writing notebook server cookie secret to /home/jovyan/.local/share/jupyter/runtime/notebook_cookie_secret
+[I 14:32:43.702 NotebookApp](B[m JupyterLab extension loaded from /opt/conda/lib/python3.7/site-packages/jupyterlab
+[I 14:32:43.702 NotebookApp](B[m JupyterLab application directory is /opt/conda/share/jupyter/lab
+[I 14:32:43.709 NotebookApp](B[m Serving notebooks from local directory: /home/jovyan
+[I 14:32:43.709 NotebookApp](B[m The Jupyter Notebook is running at:
+[I 14:32:43.709 NotebookApp](B[m http://(7763e7c67243 or 127.0.0.1):8888/?token=33ac85011459f248ea9bb4f4270fe8b39fbdcd5372f04954
+[I 14:32:43.709 NotebookApp](B[m Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 14:32:43.721 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/jovyan/.local/share/jupyter/runtime/nbserver-6-open.html
+    Or copy and paste one of these URLs:
+        http://(7763e7c67243 or 127.0.0.1):8888/?token=33ac85011459f248ea9bb4f4270fe8b39fbdcd5372f04954
+[I 14:33:37.162 NotebookApp](B[m 302 GET / (172.17.0.1) 1.83ms
+[I 14:33:37.205 NotebookApp](B[m 302 GET /tree? (172.17.0.1) 1.92ms
+[I 14:33:53.121 NotebookApp](B[m 302 GET / (172.17.0.1) 1.45ms
+[I 14:33:53.137 NotebookApp](B[m 302 GET /tree? (172.17.0.1) 1.72ms
+[I 14:36:36.528 NotebookApp](B[m 302 GET / (172.17.0.1) 1.59ms
+[I 14:36:36.580 NotebookApp](B[m 302 GET /tree? (172.17.0.1) 1.90ms
+[I 14:44:04.363 NotebookApp](B[m 302 GET / (172.17.0.1) 1.03ms
+[I 14:44:04.372 NotebookApp](B[m 302 GET /tree? (172.17.0.1) 1.43ms
+[I 14:46:19.963 NotebookApp](B[m 302 GET / (172.17.0.1) 2.12ms
+[I 14:46:19.981 NotebookApp](B[m 302 GET /tree? (172.17.0.1) 1.75ms
+[W 14:46:37.963 NotebookApp](B[m Not allowing login redirect to '/tree?'
+[I 14:46:37.964 NotebookApp](B[m 302 POST /login?next=%2Ftree%3F (172.17.0.1) 6.08ms
+[I 14:46:37.974 NotebookApp](B[m 302 GET / (172.17.0.1) 0.93ms
+[I 14:47:19.488 NotebookApp](B[m 302 GET / (172.17.0.1) 1.06ms
+[I 14:47:25.264 NotebookApp](B[m Creating new notebook in 
+[I 14:47:25.301 NotebookApp](B[m Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[I 14:47:26.799 NotebookApp](B[m Kernel started: 302ce716-5f25-4f4d-a8ad-34f6a628fefe
+[I 14:47:28.897 NotebookApp](B[m Adapting to protocol v5.1 for kernel 302ce716-5f25-4f4d-a8ad-34f6a628fefe
+19/05/16 14:47:53 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+[Stage 0:>                                                          (0 + 2) / 2]                                                                                [I 14:49:27.544 NotebookApp](B[m Saving file at /Untitled.ipynb
+[I 14:56:48.889 NotebookApp](B[m Starting buffering for 302ce716-5f25-4f4d-a8ad-34f6a628fefe:1cc80b2edf4b4c63a8b1f625abd0bb46
+[C 14:58:03.379 NotebookApp] received signal 15, stopping
+[I 14:58:03.381 NotebookApp](B[m Shutting down 1 kernel
+[I 14:58:03.792 NotebookApp](B[m Kernel shutdown: 302ce716-5f25-4f4d-a8ad-34f6a628fefe
+Executing the command: jupyter notebook
+[I 18:34:20.918 NotebookApp](B[m JupyterLab extension loaded from /opt/conda/lib/python3.7/site-packages/jupyterlab
+[I 18:34:20.918 NotebookApp](B[m JupyterLab application directory is /opt/conda/share/jupyter/lab
+[I 18:34:20.926 NotebookApp](B[m Serving notebooks from local directory: /home/jovyan
+[I 18:34:20.927 NotebookApp](B[m The Jupyter Notebook is running at:
+[I 18:34:20.928 NotebookApp](B[m http://(7763e7c67243 or 127.0.0.1):8888/?token=d480eec0c383bc8467830de90cbd38e36f97d1124f3dd072
+[I 18:34:20.928 NotebookApp](B[m Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 18:34:20.937 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/jovyan/.local/share/jupyter/runtime/nbserver-6-open.html
+    Or copy and paste one of these URLs:
+        http://(7763e7c67243 or 127.0.0.1):8888/?token=d480eec0c383bc8467830de90cbd38e36f97d1124f3dd072
+[I 18:34:28.562 NotebookApp](B[m 302 GET / (172.17.0.1) 2.56ms
+[I 18:34:28.617 NotebookApp](B[m 302 GET /tree? (172.17.0.1) 1.81ms
+[W 18:34:58.177 NotebookApp](B[m Not allowing login redirect to '/tree?'
+[I 18:34:58.177 NotebookApp](B[m 302 POST /login?next=%2Ftree%3F (172.17.0.1) 2.45ms
+[I 18:34:58.189 NotebookApp](B[m 302 GET / (172.17.0.1) 0.74ms
+[I 18:36:04.235 NotebookApp](B[m Kernel started: 00b82410-ffab-458b-85a9-3061cc9bc72c
+[I 18:36:06.341 NotebookApp](B[m Adapting to protocol v5.1 for kernel 00b82410-ffab-458b-85a9-3061cc9bc72c
+[I 19:13:35.814 NotebookApp](B[m Starting buffering for 00b82410-ffab-458b-85a9-3061cc9bc72c:7931a9bcdbe44beabfb742c4354a1acb
+[C 19:14:21.675 NotebookApp] received signal 15, stopping
+[I 19:14:21.679 NotebookApp](B[m Shutting down 1 kernel
+[I 19:14:21.984 NotebookApp](B[m Kernel shutdown: 00b82410-ffab-458b-85a9-3061cc9bc72c
+Executing the command: jupyter notebook
+[I 19:14:26.963 NotebookApp](B[m JupyterLab extension loaded from /opt/conda/lib/python3.7/site-packages/jupyterlab
+[I 19:14:26.964 NotebookApp](B[m JupyterLab application directory is /opt/conda/share/jupyter/lab
+[I 19:14:26.967 NotebookApp](B[m Serving notebooks from local directory: /home/jovyan
+[I 19:14:26.967 NotebookApp](B[m The Jupyter Notebook is running at:
+[I 19:14:26.967 NotebookApp](B[m http://(7763e7c67243 or 127.0.0.1):8888/?token=c5f44dfdaf2cffdb89534fe4926131156fd2b0558ecaec19
+[I 19:14:26.968 NotebookApp](B[m Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 19:14:26.973 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/jovyan/.local/share/jupyter/runtime/nbserver-6-open.html
+    Or copy and paste one of these URLs:
+        http://(7763e7c67243 or 127.0.0.1):8888/?token=c5f44dfdaf2cffdb89534fe4926131156fd2b0558ecaec19
+[I 19:14:44.832 NotebookApp](B[m 302 GET / (172.17.0.1) 1.29ms
+[I 19:17:30.892 NotebookApp](B[m 302 GET / (172.17.0.1) 1.31ms
+[I 19:17:30.898 NotebookApp](B[m 302 GET /tree? (172.17.0.1) 0.77ms
+[I 19:17:35.801 NotebookApp](B[m 302 GET / (172.17.0.1) 0.61ms
+[I 19:17:35.808 NotebookApp](B[m 302 GET /tree? (172.17.0.1) 0.76ms
+
+[I 19:20:38.003 NotebookApp](B[m 302 GET /tree? (172.17.0.1) 1.30ms
+[I 19:20:57.270 NotebookApp](B[m 302 GET / (172.17.0.1) 1.36ms
+[I 19:21:49.546 NotebookApp](B[m Uploading file to /index.ipynb
+[W 19:21:49.549 NotebookApp](B[m Notebook index.ipynb is not trusted
+[W 19:21:56.084 NotebookApp](B[m Notebook index.ipynb is not trusted
+[I 19:21:56.916 NotebookApp](B[m Kernel started: 16309328-abdf-48d2-82ad-e01e75b728a1
+[W 19:21:56.941 NotebookApp](B[m 404 GET /notebooks/executors.png (172.17.0.1): No such file or directory: executors.png
+[W 19:21:56.972 NotebookApp](B[m 404 GET /notebooks/executors.png (172.17.0.1) 37.88ms referer=http://localhost:32769/notebooks/index.ipynb
+[W 19:21:56.974 NotebookApp](B[m 404 GET /notebooks/sc2.jpg (172.17.0.1): No such file or directory: sc2.jpg
+[W 19:21:56.979 NotebookApp](B[m 404 GET /notebooks/sc2.jpg (172.17.0.1) 43.32ms referer=http://localhost:32769/notebooks/index.ipynb
+[W 19:21:56.989 NotebookApp](B[m 404 GET /notebooks/cluster.png (172.17.0.1): No such file or directory: cluster.png
+[W 19:21:56.993 NotebookApp](B[m 404 GET /notebooks/cluster.png (172.17.0.1) 10.18ms referer=http://localhost:32769/notebooks/index.ipynb
+[I 19:21:59.018 NotebookApp](B[m Adapting to protocol v5.1 for kernel 16309328-abdf-48d2-82ad-e01e75b728a1
+19/05/16 19:22:09 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+[I 19:23:56.880 NotebookApp](B[m Saving file at /index.ipynb
+[W 19:23:56.882 NotebookApp](B[m Notebook index.ipynb is not trusted
+[I 19:24:49.218 NotebookApp](B[m Kernel interrupted: 16309328-abdf-48d2-82ad-e01e75b728a1
+[I 19:25:56.878 NotebookApp](B[m Saving file at /index.ipynb
+[W 19:25:56.879 NotebookApp](B[m Notebook index.ipynb is not trusted
+[I 19:27:56.885 NotebookApp](B[m Saving file at /index.ipynb
+[W 19:27:56.886 NotebookApp](B[m Notebook index.ipynb is not trusted
+[I 19:29:56.892 NotebookApp](B[m Saving file at /index.ipynb
+[W 19:29:56.894 NotebookApp](B[m Notebook index.ipynb is not trusted
+[I 19:43:56.925 NotebookApp](B[m Saving file at /index.ipynb
+[W 19:43:56.927 NotebookApp](B[m Notebook index.ipynb is not trusted
+[I 19:45:57.919 NotebookApp](B[m Saving file at /index.ipynb
+[I 19:52:20.589 NotebookApp](B[m Starting buffering for 16309328-abdf-48d2-82ad-e01e75b728a1:30f352bc60514e5bb0298bff7a6d6597
+[I 19:53:58.283 NotebookApp](B[m 302 GET / (172.17.0.1) 2.30ms
+[I 19:54:37.425 NotebookApp](B[m Saving file at /index.ipynb
+[W 19:54:37.428 NotebookApp](B[m Notebook index.ipynb is not trusted
+[W 19:54:48.818 NotebookApp](B[m Notebook index.ipynb is not trusted
+[W 19:54:49.904 NotebookApp](B[m 404 GET /notebooks/rdd1.png (172.17.0.1): No such file or directory: rdd1.png
+[W 19:54:49.910 NotebookApp](B[m 404 GET /notebooks/rdd1.png (172.17.0.1) 14.49ms referer=http://localhost:32769/notebooks/index.ipynb
+[W 19:54:49.912 NotebookApp](B[m 404 GET /notebooks/split.png (172.17.0.1): No such file or directory: split.png
+[W 19:54:49.915 NotebookApp](B[m 404 GET /notebooks/split.png (172.17.0.1) 17.29ms referer=http://localhost:32769/notebooks/index.ipynb
+[W 19:54:49.916 NotebookApp](B[m 404 GET /notebooks/partitions.png (172.17.0.1): No such file or directory: partitions.png
+[W 19:54:49.920 NotebookApp](B[m 404 GET /notebooks/partitions.png (172.17.0.1) 20.01ms referer=http://localhost:32769/notebooks/index.ipynb
+[W 19:54:49.921 NotebookApp](B[m 404 GET /notebooks/lineage.JPG (172.17.0.1): No such file or directory: lineage.JPG
+[W 19:54:49.925 NotebookApp](B[m 404 GET /notebooks/lineage.JPG (172.17.0.1) 22.52ms referer=http://localhost:32769/notebooks/index.ipynb
+[W 19:54:49.930 NotebookApp](B[m 404 GET /notebooks/rdd2.png (172.17.0.1): No such file or directory: rdd2.png
+[W 19:54:49.933 NotebookApp](B[m 404 GET /notebooks/rdd2.png (172.17.0.1) 4.11ms referer=http://localhost:32769/notebooks/index.ipynb
+[I 19:54:49.989 NotebookApp](B[m Adapting to protocol v5.1 for kernel 16309328-abdf-48d2-82ad-e01e75b728a1
+[I 19:56:51.160 NotebookApp](B[m Saving file at /index.ipynb
+[W 19:56:51.164 NotebookApp](B[m Notebook index.ipynb is not trusted
+[I 19:58:49.907 NotebookApp](B[m Saving file at /index.ipynb
+[W 19:58:49.909 NotebookApp](B[m Notebook index.ipynb is not trusted
+[I 19:59:33.304 NotebookApp](B[m Saving file at /index.ipynb
+[I 19:59:56.880 NotebookApp](B[m Copying index.ipynb to 
